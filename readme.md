@@ -1,4 +1,4 @@
-# CSPB 2270 – Data Structures - Term Project
+# SIMPLE IMPLEMENTATION OF THE SEGMENT TREE
 
 ## Overview
 
